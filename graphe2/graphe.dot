@@ -1,0 +1,13 @@
+digraph {
+A[color=red];
+B[color=red];
+C[color=red];
+D[color=red];
+E[color=blue];
+A -> B;
+A -> C;
+A -> D;
+B -> C;
+B -> D;
+C -> D;
+}
